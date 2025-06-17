@@ -59,7 +59,7 @@ Visualization of advertising vs profit trends
 Scenario analysis for different budgets
 
 👨‍💻 Team
-Name	Role
-Vinshi Jain	Team Leader
-Bhabani Shankar Samal	Aspiring Data Scientist
+Name
+Vinshi Jain	Team Leader,
+Bhabani Shankar Samal	Aspiring Data Scientist,
 Kratika Tomar	Data Visualization Expert
